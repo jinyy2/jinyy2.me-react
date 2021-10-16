@@ -15,6 +15,8 @@
     "vuex": "^3.6.0"
   },
   "devDependencies": {
+    "@iconify/icons-logos": "^1.1.10",
+    "@iconify/vue2": "^1.0.0",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-plugin-router": "^4.5.9",
