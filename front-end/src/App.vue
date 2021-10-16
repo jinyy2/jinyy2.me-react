@@ -39,7 +39,7 @@
       <v-btn v-if="!drawer" @click="drawer = true">nav-bar</v-btn>
       <v-container class="py-8 px-6" fluid>
         <router-view></router-view>
-        <v-row>
+        <!-- <v-row>
           <v-icon>fas fa-list</v-icon>
           <v-col v-for="card in cards" :key="card" cols="12">
             <v-card>
@@ -70,7 +70,7 @@
               </v-list>
             </v-card>
           </v-col>
-        </v-row>
+        </v-row> -->
       </v-container>
     </v-main>
   </v-app>
