@@ -101,6 +101,7 @@ export default {
       ["mdi-send", "About"],
       ["mdi-delete", "Trash"],
       ["mdi-alert-octagon", "Spam"],
+      ["mdi-school", "Education"],
     ],
   }),
   methods: {
